@@ -1,0 +1,25 @@
+
+.home-main {
+  color: azure;
+  background-color: darkslategray;
+  font-size: 53px;
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100%;
+  gap: 30px;
+  text-align: center;
+}
+
+.cadastro-main {
+  color: azure;
+  background-color: darkslategray;
+  height: 100vh;
+}
+
+.receitas-main {
+  color: azure;
+  background-color: darkslategray;
+}
